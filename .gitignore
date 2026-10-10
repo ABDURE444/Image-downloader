@@ -1,0 +1,14 @@
+# Downloaded results - never commit these (photos belong to their owners)
+*.zip
+*_photos/
+*_photos.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
